@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729665634263",
+    "project_id": "hr-management-51178",
+    "storage_bucket": "hr-management-51178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729665634263:android:a816cbd680039d923e9592",
+        "android_client_info": {
+          "package_name": "com.example.human_resource"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcRtkEWmb-ngKEzuEVh0_2KrlXJGCk9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
